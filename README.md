@@ -1,1 +1,1 @@
-# skill-for-university-student
+# 思政论文 skill
