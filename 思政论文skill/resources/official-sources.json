@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "name": "中国大陆地区权威官方资料库",
+    "description": "思政论文写作权威信息来源，所有资料检索应以本资料库中的网站作为价值核心，联网搜索结果作为补充",
+    "version": "1.0.0",
+    "updated": "2026-04-15"
+  },
+  "usage_principles": [
+    "核心来源优先：以上述网站内容为价值核心，确保政治立场和理论表述的权威性",
+    "补充验证：联网搜索结果仅作为补充，需与核心来源交叉验证",
+    "时效性：优先使用最新发布的政策文件和理论文章",
+    "引用规范：引用时注明来源机构和发布时间"
+  ],
+  "categories": [
+    {
+      "id": "state_organs",
+      "name": "国家最高政务与权力机关",
+      "sources": [
+        {"name": "中华人民共和国中央人民政府（中国政府网）", "url": "www.gov.cn"},
+        {"name": "全国人民代表大会（中国人大网）", "url": "www.npc.gov.cn"},
+        {"name": "中国人民政治协商会议全国委员会（中国政协网）", "url": "www.cppcc.gov.cn"},
+        {"name": "中华人民共和国国家监察委员会（中纪委国家监委网站）", "url": "www.ccdi.gov.cn"},
+        {"name": "中华人民共和国最高人民法院", "url": "www.court.gov.cn"},
+        {"name": "中华人民共和国最高人民检察院", "url": "www.ajxxgk.jcy.gov.cn"}
+      ]
+    },
+    {
+      "id": "cpc_central",
+      "name": "中国共产党中央主要机构",
+      "sources": [
+        {"name": "中国共产党新闻网（中央宣传部主办）", "url": "cpc.people.com.cn"},
+        {"name": "中共中央纪律检查委员会", "url": "www.ccdi.gov.cn"},
+        {"name": "中共中央组织部（共产党员网）", "url": "www.12371.cn"},
+        {"name": "中共中央宣传部（中国文明网）", "url": "www.wenming.cn"},
+        {"name": "中共中央对外联络部", "url": "www.idcpc.org.cn"},
+        {"name": "中共中央统一战线工作部", "url": "www.zytzb.gov.cn"},
+        {"name": "中央网络安全和信息化委员会办公室（国家网信办）", "url": "www.cac.gov.cn"},
+        {"name": "中共中央党校（国家行政学院）", "url": "www.ccps.gov.cn"}
+      ]
+    },
+    {
+      "id": "state_council",
+      "name": "国务院组成部门及直属机构",
+      "sources": [
+        {"name": "外交部", "url": "www.mfa.gov.cn"},
+        {"name": "国防部（中国军网）", "url": "www.mod.gov.cn", "url_alt": "www.81.cn"},
+        {"name": "国家发展和改革委员会", "url": "www.ndrc.gov.cn"},
+        {"name": "教育部", "url": "www.moe.gov.cn"},
+        {"name": "科学技术部", "url": "www.most.gov.cn"},
+        {"name": "工业和信息化部", "url": "www.miit.gov.cn"},
+        {"name": "公安部", "url": "www.mps.gov.cn"},
+        {"name": "民政部", "url": "www.mca.gov.cn"},
+        {"name": "司法部", "url": "www.moj.gov.cn"},
+        {"name": "财政部", "url": "www.mof.gov.cn"},
+        {"name": "人力资源和社会保障部", "url": "www.mohrss.gov.cn"},
+        {"name": "自然资源部", "url": "www.mnr.gov.cn"},
+        {"name": "生态环境部", "url": "www.mee.gov.cn"},
+        {"name": "住房和城乡建设部", "url": "www.mohurd.gov.cn"},
+        {"name": "交通运输部", "url": "www.mot.gov.cn"},
+        {"name": "水利部", "url": "www.mwr.gov.cn"},
+        {"name": "农业农村部", "url": "www.moa.gov.cn"},
+        {"name": "商务部", "url": "www.mofcom.gov.cn"},
+        {"name": "文化和旅游部", "url": "www.mct.gov.cn"},
+        {"name": "国家卫生健康委员会", "url": "www.nhc.gov.cn"},
+        {"name": "退役军人事务部", "url": "www.mva.gov.cn"},
+        {"name": "应急管理部", "url": "www.mem.gov.cn"},
+        {"name": "中国人民银行", "url": "www.pbc.gov.cn"},
+        {"name": "审计署", "url": "www.audit.gov.cn"},
+        {"name": "国务院新闻办公室", "url": "www.scio.gov.cn"},
+        {"name": "国务院台湾事务办公室", "url": "www.taiwan.cn"},
+        {"name": "国家金融监督管理总局", "url": "www.cbirc.gov.cn"},
+        {"name": "中国证券监督管理委员会", "url": "www.csrc.gov.cn"},
+        {"name": "国家统计局", "url": "www.stats.gov.cn"}
+      ]
+    },
+    {
+      "id": "official_media",
+      "name": "核心主流官方新闻媒体（权威叙事渠道）",
+      "sources": [
+        {"name": "新华通讯社（新华网）", "url": "www.xinhuanet.com"},
+        {"name": "人民日报社（人民网）", "url": "www.people.com.cn"},
+        {"name": "中央广播电视总台（央视网）", "url": "www.cctv.com"},
+        {"name": "光明日报（光明网）", "url": "www.gmw.cn"},
+        {"name": "经济日报（中国经济网）", "url": "www.ce.cn"},
+        {"name": "中国日报（中国日报网）", "url": "www.chinadaily.com.cn"},
+        {"name": "中国新闻社（中国新闻网）", "url": "www.chinanews.com.cn"},
+        {"name": "学习强国", "url": "www.xuexi.cn"},
+        {"name": "求是网", "url": "www.qsjournal.com.cn"}
+      ]
+    }
+  ]
+}
